@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/FirstReactProject/static/css/main.089c6f5b.chunk.css",
-    "main.js": "/FirstReactProject/static/js/main.d6d86345.chunk.js",
-    "main.js.map": "/FirstReactProject/static/js/main.d6d86345.chunk.js.map",
-    "runtime-main.js": "/FirstReactProject/static/js/runtime-main.971f0b3a.js",
-    "runtime-main.js.map": "/FirstReactProject/static/js/runtime-main.971f0b3a.js.map",
-    "static/js/2.a2c56392.chunk.js": "/FirstReactProject/static/js/2.a2c56392.chunk.js",
-    "static/js/2.a2c56392.chunk.js.map": "/FirstReactProject/static/js/2.a2c56392.chunk.js.map",
-    "index.html": "/FirstReactProject/index.html",
-    "precache-manifest.f711c9534d1d85015a1ae6c4f6c1eddb.js": "/FirstReactProject/precache-manifest.f711c9534d1d85015a1ae6c4f6c1eddb.js",
-    "service-worker.js": "/FirstReactProject/service-worker.js",
-    "static/css/main.089c6f5b.chunk.css.map": "/FirstReactProject/static/css/main.089c6f5b.chunk.css.map",
-    "static/js/2.a2c56392.chunk.js.LICENSE.txt": "/FirstReactProject/static/js/2.a2c56392.chunk.js.LICENSE.txt"
+    "main.css": "/first-react-project/static/css/main.089c6f5b.chunk.css",
+    "main.js": "/first-react-project/static/js/main.bd525519.chunk.js",
+    "main.js.map": "/first-react-project/static/js/main.bd525519.chunk.js.map",
+    "runtime-main.js": "/first-react-project/static/js/runtime-main.d3092240.js",
+    "runtime-main.js.map": "/first-react-project/static/js/runtime-main.d3092240.js.map",
+    "static/js/2.a2c56392.chunk.js": "/first-react-project/static/js/2.a2c56392.chunk.js",
+    "static/js/2.a2c56392.chunk.js.map": "/first-react-project/static/js/2.a2c56392.chunk.js.map",
+    "index.html": "/first-react-project/index.html",
+    "precache-manifest.3ec45f38922d8c1f1374be9743fa6cbb.js": "/first-react-project/precache-manifest.3ec45f38922d8c1f1374be9743fa6cbb.js",
+    "service-worker.js": "/first-react-project/service-worker.js",
+    "static/css/main.089c6f5b.chunk.css.map": "/first-react-project/static/css/main.089c6f5b.chunk.css.map",
+    "static/js/2.a2c56392.chunk.js.LICENSE.txt": "/first-react-project/static/js/2.a2c56392.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.971f0b3a.js",
+    "static/js/runtime-main.d3092240.js",
     "static/js/2.a2c56392.chunk.js",
     "static/css/main.089c6f5b.chunk.css",
-    "static/js/main.d6d86345.chunk.js"
+    "static/js/main.bd525519.chunk.js"
   ]
 }
